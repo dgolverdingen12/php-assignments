@@ -5,6 +5,4 @@ $password = "";
 $dbname = "phpOpdrachtt";
 
 $conn = mysqli_connect($server, $username, $password, $dbname);
-
-
 ?>
